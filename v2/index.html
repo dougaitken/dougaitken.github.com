@@ -86,8 +86,30 @@
        </div>
         <div class="col-lg-4">
           <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+            <div id="lastfm">Loading...</div>
+  <script>
+    dug({
+      endpoint: 'http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=takealeft&api_key=cdb0f79e26d08aba2244427716cad62d&format=json',
+      target: 'lastfm',
+      template: '<div>\
+          <h1>{{recenttracks.@attr.user}}&apos;s recent tracks</h1>\
+          {{#recenttracks}}\
+          <ul class="photos">\
+            {{#track}}\
+              <li>\
+                <a href="{{url}}">\
+                  <h3>{{name}}</h3>\
+                  <img src="{{image.2.#text}}">\
+                  <small>{{date.#text|dug.ago}}</small>\
+                </a>\
+              </li>\
+            {{/track}}\
+          </ul>\
+          {{/recenttracks}}\
+        </div>'
+    });
+</script>
+         
         </div>
       </div>
 
@@ -104,5 +126,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+    <script src="https://raw.github.com/rogie/Dug.js/master/dug.js"></script>
   </body>
 </html>
