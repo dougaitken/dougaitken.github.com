@@ -88,31 +88,8 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
        </div>
         <div class="col-lg-4">
-          <h2>Heading</h2>
-            <div id="lastfm">Loading...</div>
-  <script>
-    dug({
-      endpoint: 'http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=takealeft&api_key=cdb0f79e26d08aba2244427716cad62d&format=json',
-      target: 'lastfm',
-      template: '<div>\
-          <h1>{{recenttracks.@attr.user}}&apos;s recent tracks</h1>\
-          {{#recenttracks}}\
-          <ul class="photos">\
-            {{#track}}\
-              <li>\
-                <a href="{{url}}">\
-                  <h3>{{name}}</h3>\
-                  <img src="{{image.2.#text}}">\
-                  <small>{{date.#text|dug.ago}}</small>\
-                </a>\
-              </li>\
-            {{/track}}\
-          </ul>\
-          {{/recenttracks}}\
-        </div>'
-    });
-</script>
-         
+          <h2>Heading</h2>        
+<a href="http://www.last.fm/user/takealeft/?chartstyle=lastfmplain"><img src="http://imagegen.last.fm/lastfmplain/recenttracks/takealeft.gif" border="0" alt="takealeft's Profile Page" /></a> 
         </div>
       </div>
 
