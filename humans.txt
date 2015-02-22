@@ -16,12 +16,10 @@ Location: Dundee, Scotland
                             
 /* SITE */
 
-                            
-Last update: 2014/02/03
 Changelog: https://github.com/dougaitken/dougaitken.github.com/pulse 
 
                             
 Standards: HTML5
 
                             
-Software: Sublime Text, GitHub.com
+Software: Atom.io, GitHub.com
