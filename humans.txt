@@ -1,25 +1,19 @@
-/* TEAM */
+Author: Doug Aitken
 
-                            
-Your title: Doug Aitken
+email: hi [at] dougaitken.co.uk,
 
-                            
-email: hi [at] dougaitken.co.uk, 
 
-                            
 Twitter: @dougaitken
 
-                            
+
 Location: Dundee, Scotland
 
-                         
-                            
 /* SITE */
 
-Changelog: https://github.com/dougaitken/dougaitken.github.com/pulse 
+Changelog: https://github.com/dougaitken/dougaitken.github.com/pulse
 
-                            
+
 Standards: HTML5
 
-                            
+
 Software: Atom.io, GitHub.com
