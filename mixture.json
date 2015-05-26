@@ -1,0 +1,27 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "customRubyPath": null,
+  "debug": false,
+  "domain": null,
+  "followLeader": false,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "/"
+  ],
+  "preprocessorScriptOutput": "/",
+  "preprocessorStyleOutput": "/",
+  "projectDescription": "My project description",
+  "projectName": "dougaitken.github.io",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": "file:///Users/Doug/Documents/dougaitken.github.io/",
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "simple",
+  "useCompass": false
+}
