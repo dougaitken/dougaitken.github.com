@@ -1,5 +1,21 @@
-Moving my personal page to GH Pages
+#[Doug Aitken](https://dougaitken.co.uk) :sparkles:
 
-Initially a one page website for years, I'm moving to create a more encompassing online presence for myself and my business.
+Personal and business website hosted on [GitHub Pages](https://pages.github.com)
 
-After officially starting freelancing in August 2015, I wanted to update my ages one pager.
+Initially a one page website for years, I'm moving to create a more encompassing online presence for myself and my business :computer:
+
+###Areas
+
+*Homepage
+  *Overview and links
+  *Personal page with business area separate
+
+*Business
+  *Links to FB etc
+  *"Packages" overview
+
+
+TODO
+- [x] release initial style changes to homepage
+- [] business pages
+- [] update online links
