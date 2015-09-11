@@ -17,5 +17,5 @@ Initially a one page website for years, I'm moving to create a more encompassing
 
 TODO
 - [x] release initial style changes to homepage
-- [] business pages
-- [] update online links
+- [ ] business pages
+- [ ] update online links
