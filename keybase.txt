@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dougaitken
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dougaitken.co.uk
+  * I am dougaitken (https://keybase.io/dougaitken) on keybase.
+  * I have a public key with fingerprint 3F01 A407 B871 A5BF E737  0328 0B3E E03B FD37 EFAB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ef56dc5cb0649c31e758f112dc83478cea1c392c23b2ceb407f2f32f70d18a060a",
+            "fingerprint": "3f01a407b871a5bfe73703280b3ee03bfd37efab",
+            "host": "keybase.io",
+            "key_id": "0b3ee03bfd37efab",
+            "kid": "0101ef56dc5cb0649c31e758f112dc83478cea1c392c23b2ceb407f2f32f70d18a060a",
+            "uid": "c1303faab9d7a2eb3f506d8262e2a700",
+            "username": "dougaitken"
+        },
+        "revoke": {
+            "sig_ids": [
+                "ddf4c735d8eda001e63eb716ea53abdb347c3eb0e8277160c29f5bc0dd04359b0f"
+            ]
+        },
+        "service": {
+            "hostname": "dougaitken.co.uk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460392363,
+    "expire_in": 157680000,
+    "prev": "981544e30a2690f6fd0dbd949b87644170df90574e37f2a2503b355fdd7da875",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJyAnicrZJbaBRXGMc3qU00okgVUvECOSKFNMQzc+bMmVmDF1pKJSg2VFtvLOe6
+mW6c2ezMbhM03mgfhIqtoDHEQBSp1lCopD4YQU1qHuxSYYuppCm00NoLVm3RYgIN
+6ZlYn/LqvAzzzf/7f7/z/86NeS8kqsrmrvlp9SR52FdWHJzIJ96ZW+rbA1gg2kFy
+D8jI6ZdsETKMUhlPgCSABjSkwrbgmDNoWy5HhiTYUYZhCu4gizhcUoMj1+QmYiaX
+zIJEmQqZikBhOBTakII6oDw/LXPZnOdH2hYpaFAtZA4xKGZKEkQgMh3IkJQQMSUQ
+kYoy3dgchHGHhmM0lPVeoGv6I/UUb6b+OXPnp+24gSBSlDJXEGpKhhSGtnBM25Qm
+JRDGwlDmfLpbarUI8mnqRRnpg446kJOFICPjZEMvrbFDkNwBhFAWJwgLRwoKNauN
+JCOGLSlGlAmmAbmuQOmYRJchN12FGYdCQAthl0EFdmlvPbPg8WnzOKcZ8+t5UJ/P
+aLpsLogCHrTov81RlA2TMVnUno3l70uW+t8oxTxf6E3pjoLMhV7gg6ShlTzyYmfD
+sqFODNmoDsi2rJeTKS9WYGI7UD/xHFnQlq5jYMuSCFLTdqGylYCCCddy9cJtyzJ0
+xMqFmGiJDp2aWO8QYayEIII6BIP4aK1+AJKOxqRpbanD82mUz0nQMXR956xEWVWi
+4sXy+AYnquYseHavq9OVU5vv2K2Xj/x1YUvXSJPfvOFuz2+L053FwT9PrFn3yQfd
+fxTk0sNLv6nLvL23d3x46vv7+xe1vf7K9lMfzztyqKqjY+vZrasvLS99eXRhz8Gm
+yvmH+1vG/10xXrx8zV1SGn2p4u6S84+8W9ff621re629s//dyQV3JhuX7fqwWNNX
+W/oF1AyuL6sc4gOP4JMG9U/30NBIY/XwWHrfYO1E+PuvXV2fXnxyIqCfFx+fsQ/c
+W3tu7P7jm43lrw60H2sYmP3D1IOb5dXdxdsXz83q3f13zRtvjuLOLz46fnVj67fb
+Htzbu9I9emDVz7fWv9X91fCVlZsulL47vejltV83pCc23Xj42b4fWTBilE76Tf3/
+AYX4ayo=
+=U9go
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dougaitken
+
+==================================================================
