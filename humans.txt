@@ -1,10 +1,5 @@
 Author: Doug Aitken
 
-
-email:
-git [at] dougaitken.co.uk for any coding issues
-hi [at] dougaitken.co.uk for any freelance enquiries
-
 Twitter: @dougaitken
 
 Location: Dundee, Scotland
