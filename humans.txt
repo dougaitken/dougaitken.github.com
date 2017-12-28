@@ -5,6 +5,6 @@ Twitter: @dougaitken
 Location: Dundee, Scotland
 
 /* SITE */
-Changelog: https://github.com/dougaitken/dougaitken.github.com/pulse
+Changelog: https://github.com/dougaitken/dougaitken.github.io/commits/master
 Standards: HTML5
 Software: Atom.io, GitHub Desktop, GitHub.com
