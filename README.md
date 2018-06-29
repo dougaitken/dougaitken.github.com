@@ -1,5 +1,5 @@
-### my website
+This is an archive of dougaitken.co.uk when it lived on GitHub Pages.
 
-[Doug Aitken](https://dougaitken.co.uk) :sparkles:
+It is now hosted by WordPress.com. Check it out - [Doug Aitken](https://dougaitken.co.uk) :sparkles:
 
-Personal website hosted on [GitHub Pages](https://pages.github.com)
+Thanks for all the fish Pages.
